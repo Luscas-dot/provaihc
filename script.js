@@ -75,10 +75,8 @@ function mostrarMensagem(texto) {
 
 
     if (mensagem) {
-
         mensagem.textContent =
             texto;
-
     }
 
 }
